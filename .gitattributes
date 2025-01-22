@@ -1,0 +1,9 @@
+*.json linguist-language=JSON
+*.csv linguist-language=CSV
+*.py linguist-language=Python
+
+# Exclude other files from language stats
+*.md linguist-documentation
+*.txt linguist-documentation
+*.lock linguist-vendored
+*.js linguist-vendored
